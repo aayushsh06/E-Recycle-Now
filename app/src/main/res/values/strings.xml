@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCkYZKP60kD1jJrC7WshWjrqAeUQOhErTg</string>
+
+    <string name="scrolltext"><b>What is E-Waste?</b>\n\n
+                  E-Waste or Electronic waste are discarded electronic devices that typically end up in landfills due to not being properly disposed of.
+                  They can have many adverse effects on the environment and human health. Rapid changes in technology, falling prices, planned obsolescence,
+                  and more and more consumers buying electronics have resulted in a fast-growing surplus of electronic waste around the globe.
+                  Electronic waste is a mounting global concern as it piles around the world at a rate of 40 million tons per year.\n</string>
+    <string name="scrolltext3"><b>Why should we recycle Electronic Waste?</b>\n\n
+                 E-waste is such a massive problem due to many electronic products containing several toxic substances which are hazardous to human
+        health and the environment. These toxic substances have been linked to cause damage to the nervous system, lungs, and kidneys. Not only that
+        but the toxic substances found in many electronics are carcinogenic. This toxic residue can also leak and contaminate the soil, air,
+        and water affecting the surrounding plant and animal life. For instance, even the tiniest components such as CPUs contain many harmful
+        materials such as lead, cadmium, beryllium, or brominated flame retardants. All of which are harmful for us and the environment.
+        E-waste is only 2% of the trash in landfills, but it equates to over 70% of the overall toxic waste in the environment.
+        This just goes to show how even just a bit of recycled e-waste goes a long way in making the world greener.\n</string>
+    <string name="scrolltext4"><b>Limited Resources</b>\n\n
+                 Raw materials such as oil, iron, gold, palladium, platinum, copper and other critical elements are often found in many
+        electronics that we use every day in our lives. These elements and materials are mined from the earth, transported and processed. T
+        hese activities use large amounts of energy and produce greenhouse gas emissions,
+        pollution and drain our natural resources. By recycling our electronics, we can significantly reduce the amount of extra mining
+        needed to obtain the resources.\n</string>
+    <string name="scrolltext6"><b>Contamination</b>\n\n
+                There is so much E-waste that even small amounts of E-waste can contaminate ecosystems. The toxic water under the landfill doesn’t just
+stop below the landfill. It continues to the groundwater and the sources to
+all the freshwater in the surrounding area. Not only is this bad for anyone using a natural well, but it hurts the nearby
+wildlife. That, in turn, causes the wildlife to get sick from lead, arsenic,
+cadmium, and other metal poisonings due to the high concentration of
+these minerals. In severe cases this contamination can even reach humans causing a number of health-related problems.
+\n</string>
+    <string name="scrolltext5"><b>What should I do with my electronic discards?</b>\n\n
+1.  Reduce your generation of e-waste through smart obtaining and good
+maintenance.\n\n
+2.  Reuse still functioning electronic equipment by donating or selling it to
+someone who can still use it.\n\n
+3.  Recycle those products that cannot be repaired.Televisions, Computer monitors
+ and other electronic equipment should NOT be disposed of with
+regular garbage, as this is illegal in California. To find an organization that will
+manage your electronics for recycling\n</string>
+</resources>
